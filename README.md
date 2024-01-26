@@ -10,4 +10,4 @@ Aneesh Tummeti
 Aidan Walters(aidanw)
 1. He completed his HW0
 2. He needs to find a group for the project
-3. He
+3. He does not know many people in the class
